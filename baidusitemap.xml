@@ -3,12 +3,9 @@
 
 
     
-    
-    
-    
   <url>
     <loc>http://sangjinchao.com/2018/03/04/hexo-utcOffset-error-md.html</loc>
-    <lastmod>2018-03-04T13:38:09.862Z</lastmod>
+    <lastmod>2018-03-04T14:04:03.932Z</lastmod>
     <data>
         <display>
         <title>Hexo的Next主题配置菜单出错</title>
@@ -21,12 +18,15 @@
          
            
              
-              <breadCrumb title="其他" url="http://sangjinchao.com/categories/%E5%85%B6%E4%BB%96/"/>
+              <breadCrumb title="Hexo建站" url="http://sangjinchao.com/categories/Hexo%E5%BB%BA%E7%AB%99/"/>
           
         </display>
     </data>
     </url>
 
+    
+    
+    
     
   <url>
     <loc>http://sangjinchao.com/2018/03/04/hello-world.html</loc>
